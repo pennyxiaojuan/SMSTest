@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText to;
     private EditText msgInput;
     private Button send;
-    private MessageReceiver messageReceiver1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
